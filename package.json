@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    // npm install jest --save-dev
+   
     "test": "jest",
     "start": "node server.js"
   },
